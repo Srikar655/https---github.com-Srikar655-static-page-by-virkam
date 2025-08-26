@@ -1,0 +1,12 @@
+<svg width="150" height="40" viewBox="0 0 150 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Icon: Abstract house/NC shape -->
+    <path d="M10 35 V 15 L 20 5 L 30 15 V 35 H 10 Z M20 15 L 15 20 H 25 L 20 15 Z" fill="#C8A97E"/>
+    <path d="M12 33 V 17 L 20 9 L 28 17 V 33 H 12 Z" fill="#0E2A47"/>
+    <path d="M15 30 V 19 L 20 14 L 25 19 V 30 H 15 Z" fill="#F8F9FA"/>
+    <path d="M17 28 V 21 L 20 18 L 23 21 V 28 H 17 Z" fill="#C8A97E"/>
+
+    <!-- Text: NovaCasa -->
+    <text x="45" y="28" font-family="'Playfair Display', serif" font-size="24" fill="white">
+        NovaCasa
+    </text>
+</svg>
